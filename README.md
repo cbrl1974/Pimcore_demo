@@ -49,3 +49,4 @@ You don't need to have a PHP environment with composer installed.
 
 ## Other demo/skeleton packages
 - [Pimcore Skeleton](https://github.com/pimcore/skeleton/)
+"# pimcore_demo" 
